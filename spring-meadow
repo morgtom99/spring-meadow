@@ -1,0 +1,59 @@
+{
+  "id": "theme-spring-meadow",
+  "title": "Spring Meadow",
+  "description": "A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.",
+  "seedPalette": [
+    "#f1c40f",
+    "#2ecc71",
+    "#1abc9c",
+    "#3498db",
+    "#9b59b6",
+    "#e91e63",
+    "#ffb7c5"
+  ],
+  "colorConcepts": [
+    [
+      "daffodil",
+      "bright",
+      "buttercup"
+    ],
+    [
+      "sprout",
+      "clover",
+      "field"
+    ],
+    [
+      "leaf",
+      "fern",
+      "dew"
+    ],
+    [
+      "sky",
+      "breeze",
+      "cloud"
+    ],
+    [
+      "lilac",
+      "lavender",
+      "violet"
+    ],
+    [
+      "tulip",
+      "poppy",
+      "garden"
+    ],
+    [
+      "blossom",
+      "cherry",
+      "petal"
+    ]
+  ],
+  "primary": "145 63% 42%",
+  "background": "160 40% 10%",
+  "accent": "160 40% 20%",
+  "imageStyle": {
+    "complexity": "maximal",
+    "style": "photographic",
+    "detail": "detailed"
+  }
+}
