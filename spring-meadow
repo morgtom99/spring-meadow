@@ -55,5 +55,9 @@
     "complexity": "maximal",
     "style": "photographic",
     "detail": "detailed"
-  }
+  },
+  "repository": "spring-meadow",
+  "owner": "morgtom99",
+  "branch": "main",
+  "basePath": ""
 }
