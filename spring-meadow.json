@@ -58,7 +58,17 @@
     "style": "photographic",
     "detail": "detailed",
     "dimension": "3d",
-    "lighting": "natural"
+    "lighting": "soft",
+    "texture": "none"
   },
-  "branch": "main"
+  "branch": "main",
+  "colorDescriptions": [
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ]
 }
