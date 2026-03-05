@@ -59,5 +59,6 @@
     "detail": "detailed",
     "dimension": "3d",
     "lighting": "natural"
-  }
+  },
+  "branch": "main"
 }
