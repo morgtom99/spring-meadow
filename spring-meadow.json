@@ -58,17 +58,43 @@
     "style": "photographic",
     "detail": "detailed",
     "dimension": "3d",
-    "lighting": "soft",
-    "texture": "none"
+    "lighting": "natural"
   },
-  "branch": "main",
-  "colorDescriptions": [
-    "",
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
+  "conceptPrompts": [
+    [
+      "[Subject: DAFFODIL]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #f1c40f.",
+      "[Subject: BRIGHT]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #f1c40f.",
+      "[Subject: BUTTERCUP]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #f1c40f."
+    ],
+    [
+      "[Subject: SPROUT]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #2ecc71.",
+      "[Subject: CLOVER]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #2ecc71.",
+      "[Subject: FIELD]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #2ecc71."
+    ],
+    [
+      "[Subject: LEAF]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #1abc9c.",
+      "[Subject: FERN]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #1abc9c.",
+      "[Subject: DEW]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #1abc9c."
+    ],
+    [
+      "[Subject: SKY]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #3498db.",
+      "[Subject: BREEZE]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #3498db.",
+      "[Subject: CLOUD]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #3498db."
+    ],
+    [
+      "[Subject: LILAC]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #9b59b6.",
+      "[Subject: LAVENDER]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #9b59b6.",
+      "[Subject: VIOLET]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #9b59b6."
+    ],
+    [
+      "[Subject: TULIP]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #e91e63.",
+      "[Subject: POPPY]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #e91e63.",
+      "[Subject: GARDEN]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #e91e63."
+    ],
+    [
+      "[Subject: BLOSSOM]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #ffb7c5.",
+      "[Subject: CHERRY]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #ffb7c5.",
+      "[Subject: PETAL]. A high-fidelity photographic aesthetic. Theme: Spring Meadow. Aesthetic Context: A lush and vibrant palette capturing the fresh growth and brilliant blooms of a temperate spring.. Parameters: 3d dimension, natural lighting, undefined texture, maximal complexity, detailed level of detail. Primary color: #ffb7c5."
+    ]
   ]
 }
